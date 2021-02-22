@@ -1,11 +1,6 @@
 ## Nature of the project
 
-The task of the Great Success team is to create an e-shop environment which is built on the basis of mongodb. Postman is used for API development. The team has chosen to create an e-shop for pet supplies. Assignments are distributed among team members using Jira for project management. Sets of work are completed in sprints.
-Out team members:
-Meelis Mumm
-Triin Tajur
-Taive Sarnik
-Kadi Vaigla
+
 
 ## Configurating git
 
